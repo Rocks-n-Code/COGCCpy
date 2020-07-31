@@ -22,7 +22,7 @@ from COGCCpy import production
 apis = ['05-013-40002','0501305023']
 prod = production(apis)
 
-#Preview
+#Preview production data
 prod.df.head()
 ```
 
@@ -33,6 +33,8 @@ from COGCCpy import formation_tops
 
 apis = ['0501306049','05-013-06457']
 tops = formation_tops(apis)
+
+#Preview formation tops
 tops.df.head()
 ```
 
