@@ -1,0 +1,11 @@
+README.md
+setup.py
+COGCCpy/__init__.py
+COGCCpy/production.py
+COGCCpy/tops.py
+COGCCpy.egg-info/PKG-INFO
+COGCCpy.egg-info/SOURCES.txt
+COGCCpy.egg-info/dependency_links.txt
+COGCCpy.egg-info/not-zip-safe
+COGCCpy.egg-info/requires.txt
+COGCCpy.egg-info/top_level.txt
