@@ -7,7 +7,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(name='COGCCpy',
-      version='0.0.1',
+      version='0.0.3',
       description='A python package to easily access COGCC data.',
       url="https://github.com/Rocks-n-Code/COGCCpy",
       packages=['COGCCpy'],
