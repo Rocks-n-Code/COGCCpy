@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: COGCCpy
-Version: 0.0.3
+Version: 0.0.4
 Summary: A python package to easily access COGCC data.
 Home-page: https://github.com/Rocks-n-Code/COGCCpy
 Author: Matthew W. Bauer, P.G.
@@ -44,7 +44,7 @@ Description: # COGCCpy
         tops.df.head()
         ```
         
-        ##License
+        ### License
         
         MIT
 Platform: UNKNOWN

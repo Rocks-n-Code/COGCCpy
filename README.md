@@ -36,6 +36,6 @@ tops = formation_tops(apis)
 tops.df.head()
 ```
 
-##License
+### License
 
 MIT
